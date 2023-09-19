@@ -1,4 +1,7 @@
+<div>
 <img src="https://github.com/it-tr1p/Django_ci/actions/workflows/test_on_push.yaml/badge.svg">
+<img src="https://api.codeclimate.com/v1/badges/45bf196c25c6b66728fe/maintainability" />
+</div>
 <h1> CI</h1>
 After `push` in `master` git workflows run tests and if all tests was success updates sending to `docker hub` 
 
